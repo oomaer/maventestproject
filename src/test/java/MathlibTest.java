@@ -22,7 +22,7 @@ public class MathlibTest {
 	
 	public void mulTest() {
 		Mathlib obj = new Mathlib();
-		assert(10 == obj.multiply(5, 5));
+		assert(25 == obj.multiply(5, 5));
 	}
 	
 	public void divTest() {
